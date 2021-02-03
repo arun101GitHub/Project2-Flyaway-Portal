@@ -1,0 +1,48 @@
+Documents Step by Step from Sprint Planning to Product Release
+
+Step 1. Review your product Roadmap
+As the product owner, it’s our responsibility to keep the high-level product view always in sight. Before we meet or do any sort of sprint planning, we need to get back into our product roadmap and ask some serious questions.
+
+Step 2: Groom your product backlog and update user stories
+With our mind primed with our product vision, it’s time to dive into our backlog and start pulling out user stories to tackle in the next two sprints. Our product backlog is all of the bugs, issues, and user stories (informal, natural language descriptions of one or more desired features, often written from the perspective of our actual users).
+
+One way to make things clearer is to use “Story points”—values we agree on as a team that allow you to talk about the relative investment of a task. For example, some teams use the Fibonacci sequence of 0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, etc… This way, instead of arguing whether a task is a 12 or a 13 in effort, we can quickly agree it’s more of a 13 than an 8, but not a 21-pointer.
+
+Step 3: Propose a sprint goal and backlog before the sprint planning meeting
+With a properly groomed product backlog it’s time to actually start planning our next sprint. Let’s start with the basics. Before a sprint gets underway, we need to know what we’re trying to accomplish and how we’re going to get there.
+What is our Sprint goal: Simply put, what we want to have delivered by the end of the sprint. Sprint goals are a great “why” for our team—keeping us motivated. But we’re also great for communicating what’s being worked on to people outside of our team. For example, if we’re running an ecommerce site, it might be something like: “Develop the checkout process: Pay, choose shipping, include discounts.” or “Update shopping cart functionality to include remove and update quantities.”
+
+Step 4: Use data and experience to supercharge your Sprint planning meeting
+Timeboxing your sprint planning meeting to just 8-hours for a month-long sprint (not all at once, of course). For shorter sprints, our meetings should be adjusted accordingly. Our scrum master is responsible for making sure these meetings happen and stick to our agenda.We’ve provided enough stories for two sprints (as we suggested earlier), this will mean breaking down what can be done by the team in the givenIf  timeframe.There’s a few steps in doing this:
+Breakdown user stories into technical tasks.
+Revisit your definition of done.
+Clarify the acceptance criteria.
+Development team agrees on their capacity for the sprint.
+
+Step 5: Walk through each user story and describe what tasks need to be done
+We should think about questions like:
+What’s changed since this story was written?
+Is the estimated time still valid given recent work?
+Are there dependencies we should be aware of?
+What about testing? Can we automate it?
+Do we have the skills to complete this task? Are specialists required and if so, how can you optimize their time so they don’t become a blocker?
+What implications will this story have on the rest of the product? Are there other teams that need to be involved with this story or give sign-off on the design or code?
+A good scrum master will help facilitate these questions and make sure that every angle is covered before you get to work. It might seem like a pain at this point, but the work upfront will pay dividends later on.
+Finally, get verbal commitments from everyone in the room
+At the end of the sprint planning meeting the development team should be able to explain to the product owner and scrum master just how it’s going to work to hit the sprint goal. It might seem a little unnecessary, but it’s good to get verbal commitments from everyone in the room, explaining what they’re doing, why, and the goal.Communication is key to any team. And this final check is key for making sure everyone is pointed in the right direction before they take off on their sprint.
+Proper sprint planning does a lot of things well. But most of all, it turns our goals from a wish into a step-by-step guide. If we’ve followed this guide, at the end of our sprint planning session we and our entire team should walk away with:
+An agreed-upon Sprint Goal and a clear definition of “done”
+Commitment to a realistic sprint backlog
+Understanding of the bug fixes and support work included in the backlog
+Detailed tasks for each user story with an estimation and acceptance criteria
+Due dates and scheduled scrum meetings
+
+
+
+
+
+
+
+
+
+

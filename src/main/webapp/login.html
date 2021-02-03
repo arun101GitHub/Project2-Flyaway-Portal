@@ -1,0 +1,77 @@
+<!DOCTYPE html>   
+<html>   
+<head>  
+<meta name="viewport" content="width=device-width, initial-scale=1">  
+<title> Login Page </title>  
+<style>   
+Body {  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgb(100, 86, 88);  
+}  
+button {   
+       background-color: white;   
+       width: 100%;  
+        color: rgb(168, 165, 160);   
+        padding: 15px;   
+        margin: 10px 0px;   
+        border: none;   
+        cursor: pointer;   
+         }   
+ form {   
+        border: 3px solid #f1f1f1;   
+    }   
+ input[type=text], input[type=password] {   
+        width: 100%;   
+        margin: 8px 0;  
+        padding: 12px 20px;   
+        display: inline-block;   
+        border: 2px solid rgb(214, 223, 214);   
+        box-sizing: border-box;   
+    }  
+ button:hover {   
+        opacity: 0.7;   
+    }   
+  .cancelbtn {   
+        width: auto;   
+        padding: 10px 18px;  
+        margin: 10px 5px;  
+    }   
+        
+     
+ .container {   
+        padding: 25px;   
+        background-color: lightblue;  
+    }   
+</style>   
+</head>    
+<body>  
+    <body style="background-color:grey;"></body>
+    <style>
+        .img-container {
+          text-align: center;
+        }
+      </style> 
+      
+      </style>
+    <div id="container">
+    <div class="img-container">   
+    <img src="C:\Users\16507\Desktop\Project 2 FlyAway\img\FlyawayReservationLogo.jpg" alt="FlyAway">
+    </div>
+    </div>  
+    <center> <h1> Flyway Admin Login Page </h1> </center>   
+    <form action="/flyaway-airline-portal/loginservlet" method="post">
+        <div class="container">   
+            <label>Username : </label>   
+            <input type="text" placeholder="Enter Username" name="username" required>  
+            <label>Password : </label>   
+            <input type="password" placeholder="Enter Password" name="password" required>  
+            <button type="submit"><b>Login</b></button>   
+            <input type="checkbox" checked="checked"> Remember me   
+            <a href="http://localhost:8080/flyaway-airline-portal/"> Cancel </a>
+            Forgot <a href="mailto:admin@flyawayXX.com"> password? </a>  
+            <br>
+            <a href="changepassword.html">Change Password</a>
+        </div>   
+    </form>     
+</body>     
+</html>  
